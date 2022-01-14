@@ -345,7 +345,25 @@ OAuth2
 
 ## 3.1产品选择
 
-[postgreSQL](https://www.postgresql.org/)
+[PostgreSQL](https://www.postgresql.org/)
+[PostGIS](https://postgis.net/)
 
-# 4.运维
+[PostgreSQL与MySQL相比，优势何在](https://www.zhihu.com/question/20010554)
+
+# 4.运维 [DevOps](https://www.redhat.com/zh/topics/devops)
+
+## 4.1[**CI/CD**](https://www.redhat.com/zh/topics/devops/what-is-ci-cd)
+
+CI/CD 是一种通过在应用开发阶段引入[自动化](https://www.redhat.com/zh/topics/automation/whats-it-automation)来频繁向客户交付应用的方法。CI/CD 的核心概念是持续集成、[持续交付](https://www.redhat.com/zh/topics/devops/what-is-continuous-delivery)和持续部署。
+
+## 4.2 [容器](https://www.ibm.com/cn-zh/cloud/learn/containers)
+
+容器是软件的可执行单元，它采用通用方式封装了应用程序代码及其库和依赖项，因此可以随时随地运行容器（无论是在桌面、传统 IT 还是云端）。
+
+### 4.2.1 [Docker](https://www.docker.com/)
+
+Docker 是一个开源平台，用于构建、部署和管理容器化应用程序。 
+
+
+
 
